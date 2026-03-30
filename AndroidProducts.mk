@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beyond1lte.mk
+    $(LOCAL_DIR)/matrixx_beyond1lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beyond1lte-eng \
-    lineage_beyond1lte-user \
-    lineage_beyond1lte-userdebug
+    matrixx_beyond1lte-eng \
+    matrixx_beyond1lte-user \
+    matrixx_beyond1lte-userdebug
